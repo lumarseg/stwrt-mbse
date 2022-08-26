@@ -1,6 +1,6 @@
 # STWRT-MBSE
 
-Stewart Platform Project - Model Based System Engineering | v0.0.4-NIGHTLY
+Stewart Platform Project - Model Based System Engineering | v0.0.5-NIGHTLY
 
 Author : Luis Diego Maroto Segura
 
@@ -10,7 +10,7 @@ LinkedIn: <https://www.linkedin.com/in/ldmaroto>
 
 ## Scope
 
-This project is releated to build a Stewart Platform, following a Model-Based System approach. The method used in this project is Arcadia and the tool Capella. Arcadia Method Approach has been successfully tested and implemented in large industrial projects. Detailed information about the method and tool can be obtained at [Capella Website](https://www.eclipse.org/capella/arcadia.html), hosted by Eclipse Fundation.
+This project is releated to build a Stewart Platform, following a Model-Based System Engineering approach. The method used in this project is Arcadia and the tool Capella. Arcadia Method Approach has been successfully tested and implemented in large industrial projects. Detailed information about the method and tool can be obtained at [Capella Website](https://www.eclipse.org/capella/arcadia.html), hosted by Eclipse Fundation.
 
 **Related Repositories**
 This repository is part of other repositories related to the project.
