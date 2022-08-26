@@ -1,8 +1,9 @@
 # STWRT-MBSE
 
-Stewart Platform Project - Model Based System Engineering | v0.0.2-NIGHTLY
+Stewart Platform Project - Model Based System Engineering | v0.0.3-NIGHTLY
 Author : Luis Diego Maroto Segura
 Github : <https://github.com/ldmaroto/stwrt-mbse>
+LinkedIn: <https://www.linkedin.com/in/ldmaroto>
 
 ## Scope
 
@@ -16,6 +17,8 @@ This repository is part of other repositories related to the project.
 * Arduino sketch: <https://github.com/ldmaroto/stwrt-sketch>
 
 * Documents and support: <https://github.com/ldmaroto/stwrt-docs>
+
+* Simulation and Digital Twin: <https://github.com/ldmaroto/stwrt-dt>
 
 ## License
 
