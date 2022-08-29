@@ -2,7 +2,7 @@
 
 Stewart Platform Project - Model Based System Engineering | v0.0.5-NIGHTLY
 
-Author : Luis Diego Maroto Segura
+Author : Luis Maroto
 
 Github : <https://github.com/lumarseg/stwrt-mbse>
 
