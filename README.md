@@ -4,9 +4,9 @@ Stewart Platform Project - Model Based System Engineering | v0.0.5-NIGHTLY
 
 Author : Luis Diego Maroto Segura
 
-Github : <https://github.com/ldmaroto/stwrt-mbse>
+Github : <https://github.com/lumarseg/stwrt-mbse>
 
-LinkedIn: <https://www.linkedin.com/in/ldmaroto>
+LinkedIn: <https://www.linkedin.com/in/lumarseg>
 
 ## Scope
 
@@ -16,13 +16,13 @@ This project is releated to build a Stewart Platform, following a Model-Based Sy
 
 This repository is part of other repositories related to the project.
 
-* CAD files and BOM list: <https://github.com/ldmaroto/stwrt-cad>
+* CAD files and BOM list: <https://github.com/lumarseg/stwrt-cad>
 
-* Arduino sketch: <https://github.com/ldmaroto/stwrt-sketch>
+* Arduino sketch: <https://github.com/lumarseg/stwrt-sketch>
 
-* Documents and support: <https://github.com/ldmaroto/stwrt-docs>
+* Documents and support: <https://github.com/lumarseg/stwrt-docs>
 
-* Simulation and Digital Twin: <https://github.com/ldmaroto/stwrt-dt>
+* Simulation and Digital Twin: <https://github.com/lumarseg/stwrt-dt>
 
 ## License
 
