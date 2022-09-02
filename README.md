@@ -1,6 +1,6 @@
 # STWRT-MBSE
 
-Stewart Platform Project - Model Based System Engineering | v0.0.5-NIGHTLY
+Stewart Platform Project - Model Based System Engineering | v0.0.6-NIGHTLY
 
 Author : Luis Maroto
 

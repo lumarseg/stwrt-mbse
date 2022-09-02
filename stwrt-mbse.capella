@@ -54,7 +54,25 @@
       <ownedRolePkg xsi:type="org.polarsys.capella.core.data.oa:RolePkg" id="2014e6fd-38c6-43f9-aa0e-651096b94a0d"
           name="Roles"/>
       <ownedEntityPkg xsi:type="org.polarsys.capella.core.data.oa:EntityPkg" id="3efb8ac4-25ee-4eec-9b24-6179ca4e6197"
-          name="Operational Entities"/>
+          name="Operational Entities">
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="bf6576c6-197a-44c6-90f4-bb586d5e9283"
+            name="STUDENT" abstractType="#953f883f-fa40-48ad-b3a3-168b3fe15d8e"/>
+        <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="f67ed0ac-56d9-4d2d-9de6-0986bb8667f7"
+            name="STEAM_CREW" abstractType="#7d555978-859f-43ab-b05a-4768cc02b676"/>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="953f883f-fa40-48ad-b3a3-168b3fe15d8e"
+            name="STUDENT" actor="true" human="true"/>
+        <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="7d555978-859f-43ab-b05a-4768cc02b676"
+            name="STEAM_CREW">
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="8111e039-520d-4f34-90dd-799457c0ed4b"
+              name="STEAM_ASSISTANT" abstractType="#f4e60ded-dbb6-4e2e-a116-a1d34e5e256a"/>
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="b85bb30e-723f-43e2-9112-c86b9c1f38be"
+              name="STEAM_INSTRUCTOR" abstractType="#ebc14d00-ee52-4d78-abc0-13aa7ac56f2e"/>
+          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="f4e60ded-dbb6-4e2e-a116-a1d34e5e256a"
+              name="STEAM_ASSISTANT" actor="true" human="true"/>
+          <ownedEntities xsi:type="org.polarsys.capella.core.data.oa:Entity" id="ebc14d00-ee52-4d78-abc0-13aa7ac56f2e"
+              name="STEAM_INSTRUCTOR" actor="true" human="true"/>
+        </ownedEntities>
+      </ownedEntityPkg>
     </ownedArchitectures>
     <ownedArchitectures xsi:type="org.polarsys.capella.core.data.ctx:SystemAnalysis"
         id="c761f813-bc60-49ae-a074-7a79507b47f1" name="System Analysis">
